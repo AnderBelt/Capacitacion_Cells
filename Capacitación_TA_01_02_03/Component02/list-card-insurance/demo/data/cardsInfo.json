@@ -1,0 +1,114 @@
+{
+    "cards" : [
+
+        {
+            "title": "Seguro Vehicular", 
+            "description": "BBVA y Rímac Seguros se han unido para ofrecer a nuestros clientes los siguientes beneficios al contratar un seguro vehicular: ", 
+            "listInfo": [
+              {
+                "icon": "bullet", 
+                "description": "Elegir entre 3 planes de protección para su vehículo."
+              },
+              {
+                "icon" : "bullet", 
+                "description": "Cobertura contra robo total."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra daños a terceros."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Auxilio mecánico y traslado de grúa."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Descuento en gasolina Repsol."
+              }
+            ], 
+            "buttonName": "Cotizar"
+          },
+          {
+            "title": "Seguro Particular", 
+            "description": "BBVA y Rímac Seguros se han unido para ofrecer a nuestros clientes los siguientes beneficios al contratar un seguro vehicular: ", 
+            "listInfo": [
+              {
+                "icon": "bullet", 
+                "description": "Elegir entre 3 planes de protección para su vehículo."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra robo total."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra daños a terceros."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Auxilio mecánico y traslado de grúa."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Descuento en gasolina Repsol."
+              }
+            ], 
+            "buttonName": "Cotizar"
+          },
+          {
+            "title": "Seguro de Vida", 
+            "description": "BBVA y Rímac Seguros se han unido para ofrecer a nuestros clientes los siguientes beneficios al contratar un seguro vehicular: ", 
+            "listInfo": [
+              {
+                "icon": "bullet", 
+                "description": "Elegir entre 3 planes de protección para su vehículo."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra robo total."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra daños a terceros."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Auxilio mecánico y traslado de grúa."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Descuento en gasolina Repsol."
+              }
+            ], 
+            "buttonName": "Cotizar"
+          },
+          {
+            "title": "Seguro de Vida", 
+            "description": "BBVA y Rímac Seguros se han unido para ofrecer a nuestros clientes los siguientes beneficios al contratar un seguro vehicular: ", 
+            "listInfo": [
+              {
+                "icon": "bullet", 
+                "description": "Elegir entre 3 planes de protección para su vehículo."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra robo total."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Cobertura contra daños a terceros."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Auxilio mecánico y traslado de grúa."
+              },
+              {
+                "icon": "bullet", 
+                "description": "Descuento en gasolina Repsol."
+              }
+            ], 
+            "buttonName": "Cotizar"
+          }
+
+    ]
+}

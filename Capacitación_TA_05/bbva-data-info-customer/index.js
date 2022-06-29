@@ -1,0 +1,1 @@
+export { BbvaDataInfoCustomer } from './src/BbvaDataInfoCustomer.js';

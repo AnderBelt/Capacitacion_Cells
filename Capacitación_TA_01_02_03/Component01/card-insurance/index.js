@@ -1,0 +1,1 @@
+export { CardInsurance } from './src/CardInsurance.js';

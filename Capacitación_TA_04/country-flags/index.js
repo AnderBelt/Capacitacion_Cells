@@ -1,0 +1,1 @@
+export { CountryFlags } from './src/CountryFlags.js';

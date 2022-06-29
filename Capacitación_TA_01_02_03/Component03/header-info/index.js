@@ -1,0 +1,1 @@
+export { HeaderInfo } from './src/HeaderInfo.js';

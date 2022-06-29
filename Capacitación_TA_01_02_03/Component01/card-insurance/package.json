@@ -1,0 +1,24 @@
+{
+  "name": "@capacitacion-practica/card-insurance",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "files": [
+    "/src/",
+    "/locales/",
+    "*.js",
+    "!**/*.scss"
+  ],
+  "dependencies": {
+    "@bbva-web-components/bbva-button-default": "^5.11.5",
+    "@bbva-web-components/bbva-core-icon": "^1.5.1",
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.4",
+    "@bbva-web-components/bbva-foundations-icons": "^1.13.3",
+    "@bbva-web-components/bbva-foundations-styles": "^2.3.5",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.1.0"
+  }
+}

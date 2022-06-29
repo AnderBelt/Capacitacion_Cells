@@ -1,0 +1,1 @@
+export { ListCardInsurance } from './src/ListCardInsurance.js';

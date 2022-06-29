@@ -1,0 +1,29 @@
+{
+  "name": "@capacitacion-practica/bbva-data-info-vehicle",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "files": [
+    "/src/",
+    "/locales/",
+    "*.js",
+    "!**/*.scss"
+  ],
+  "dependencies": {
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.4",
+    "@bbva-web-components/bbva-form-field": "^4.25.2",
+    "@bbva-web-components/bbva-form-radio-button": "^5.3.6",
+    "@bbva-web-components/bbva-form-radio-group": "^4.5.0",
+    "@bbva-web-components/bbva-foundations-styles": "^2.3.5",
+    "@bbva-web-components/bbva-web-form-checkbox": "^1.4.3",
+    "@bbva-web-components/bbva-web-form-predictive": "^1.2.7",
+    "@bbva-web-components/bbva-web-form-radio-button": "^1.2.3",
+    "@bbva-web-components/bbva-web-form-search": "^1.1.6",
+    "@bbva-web-components/bbva-web-form-select": "^1.1.0",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.1.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@capacitacion-practica/list-card-insurance",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "files": [
+    "/src/",
+    "/locales/",
+    "*.js",
+    "!**/*.scss"
+  ],
+  "dependencies": {
+    "@capacitacion-practica/card-insurance": "git+git@github.com:AnderBelt/Capac_Element01.git#main",
+    "@bbva-web-components/bbva-foundations-styles": "^2.3.5",
+    "@bbva-web-components/bbva-core-lit-helpers": "^1.0.4",
+    "lit-element": "^2.0.0"
+    
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^3.1.0"
+  }
+}

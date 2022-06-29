@@ -1,0 +1,1 @@
+export { BbvaDataInfoVehicle } from './src/BbvaDataInfoVehicle.js';
